@@ -3,8 +3,6 @@
 **From the first `print("Hello World!")` to total language mastery!**  
 *Repository of my journey as a Lua developer - from zero to senior level 🔥*
 
-![Lua Banner](https://www.logo.wine/a/logo/Lua_(programming_language)/Lua_(programming_language)-Logo.wine.svg) 🎯
-
 **About Me**
 ```
 Nosliaht | Lua Developer
