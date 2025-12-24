@@ -4,5 +4,3 @@ print(date)
 
 -- os.execute("mkdir paste")
 os.remove("Module\\02\\text.txt")
-
-os.exit()
